@@ -1,0 +1,30 @@
+/* CSS Document */
+
+.index-banner-intro {
+	width: 100%; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.intro-title {
+	font-size: 30px;
+}
+
+.intro-title2 {
+	font-size: 25px;
+	display: block;
+}
+
+
+@media only screen and (max-width: 800px) {
+    
+	
+	.intro-title {
+		font-size: 20px;
+	}
+	
+	
+	.intro-title2 {
+		font-size: 15px;
+	}
+}

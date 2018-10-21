@@ -26,9 +26,9 @@
 
 #back-to-top {
      position:fixed;
-     bottom:0;
+     bottom:40px;
      right:0;
-	z-index: 200;
+	 z-index: 200;
 } 
 
 @media only screen and (max-width: 800px) {

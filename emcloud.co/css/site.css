@@ -24,6 +24,13 @@
     display: none;
 }
 
+#back-to-top {
+     position:fixed;
+     bottom:0;
+     right:0;
+	z-index: 200;
+} 
+
 @media only screen and (max-width: 800px) {
 #small-pluralsight {
     display: block;
